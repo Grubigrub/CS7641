@@ -12,7 +12,7 @@ There are 3 different modes to run each python file.
 * learning : Plot the learning curves
 * final : Print the final score on the testing set and the confusion matrix
 
-To run a file in a certain mode, execute "python3 file.py mode". For example, to plot the learning curves with the Decision Trees, execute "python3 trees.py training_size".
+To run a file in a certain mode, execute "python3 file.py mode". For example, to plot the learning curves with the Decision Trees, execute "python3 tree.py training_size".
 
 There are 3 files:
 
@@ -22,4 +22,4 @@ There are 3 files:
 * svm.py : Scripts related to the Support Vector Machine
 * knn.py : Scripts related to the K Nearest Neighbors
 
-In each file there are multiple parameter that you can tweak. .
+In each file there are parameter that you can tweak, as indicated in pdf. .
