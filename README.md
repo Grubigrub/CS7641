@@ -14,7 +14,7 @@ There are 3 different modes to run each python file.
 
 To run a file in a certain mode, execute "python3 file.py mode". For example, to plot the learning curves with the Decision Trees, execute "python3 tree.py training_size".
 
-There are 3 files:
+There are 5 files:
 
 * tree.py : Scripts related to the Decision Tree
 * neural.py : Scripts related to the Neural Networks
